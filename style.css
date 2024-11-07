@@ -94,14 +94,14 @@ body {
 }
 
 /* Background colors */
-.baby-purple{
+.baby-pink{
     background-color: rgba(253, 129, 187, 0.3);
     margin: 20px auto;
     padding: 20px;
     text-align: center;
 }
 
-.baby-purple-light{
+.baby-pink-light{
     background-color: rgba(243, 162, 200, 0.3);
     margin: 20px auto;
     padding: 20px;
